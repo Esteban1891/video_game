@@ -1,4 +1,4 @@
-# video_game
+# video_game :video_game:
 * this is a repository focused on learning and creating video games with different types of languages
 
 ## Author :octocat:
